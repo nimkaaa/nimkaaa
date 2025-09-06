@@ -1,7 +1,7 @@
 <!-- ===== About me ===== -->
-<h2 align="center">👋 Hey! I'm Meytyy</h2>
+<h2 align="center">👋 Hey! I'm Mykyta Vasylets</h2>
 <p align="center">
-  💻 self-taught developer • ⚡ exploring Python, JS/TS, React, FastAPI • 🚀 building pet-projects and learning every day
+  💻 self-taught developer • ⚡ exploring Python, JS, HTML, SASS/CSS • 🚀 building pet-projects and learning every day
 </p>
 
 ---
