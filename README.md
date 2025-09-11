@@ -13,7 +13,7 @@
 
 <!-- ===== Tech stack icons ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,python&theme=dark" />
 </p>
 
 ---
